@@ -2,6 +2,8 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
   <types>
     <name>AuraDefinitionBundle</name>
+    <members>AccountList</members>
+    <members>AccountListItem</members>
     <members>AccountLocator</members>
     <members>AccountLocatorApp</members>
   </types>
