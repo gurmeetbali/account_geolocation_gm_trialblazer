@@ -6,6 +6,8 @@
     <members>AccountListItem</members>
     <members>AccountLocator</members>
     <members>AccountLocatorApp</members>
+    <members>AccountMap</members>
+    <members>AccountsLoaded</members>
   </types>
   <types>
     <name>ApexClass</name>
@@ -25,6 +27,10 @@
   <types>
     <name>PermissionSet</name>
     <members>Account_Location</members>
+  </types>
+  <types>
+    <name>StaticResource</name>
+    <members>leaflet</members>
   </types>
   <types>
     <name>CustomTab</name>
