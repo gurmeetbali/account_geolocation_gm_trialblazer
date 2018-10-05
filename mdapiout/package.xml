@@ -7,6 +7,7 @@
     <members>AccountLocator</members>
     <members>AccountLocatorApp</members>
     <members>AccountMap</members>
+    <members>AccountSelected</members>
     <members>AccountsLoaded</members>
   </types>
   <types>
